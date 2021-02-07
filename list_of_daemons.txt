@@ -1,0 +1,24 @@
+1) grub-common : GRUB displays the boot menu at the next boot if it
+       believes that the previous boot failed. This script informs it that the system booted successfully.
+
+2) avahi-daemon :  The daemon registers local IP addresses  and  static  services
+       using  mDNS/DNS-SD  and  provides  two IPC APIs for local programs to make use of the mDNS
+       record cache the avahi-daemon maintains.
+
+3) cpuhp/0 :  Process that supports physically adding and removing CPUs from the system.
+
+4) kmod : kmod is a multi-call binary which implements the programs used to
+       control Linux Kernel modules. Most users will only run it using
+       its other names
+       
+5) irqbalance : irqbalance is a command line tool that distributes hardware interrupts across processors to improve system performance. It runs as a 	 daemon by default, but can be run once only with the --oneshot option.
+
+6) rsyslog : Rsyslog is an open-source software utility used on UNIX and Unix-like computer systems for forwarding log messages in an IP network
+
+7) ufw : Uncomplicated Firewall is a program for managing a netfilter firewall designed to be easy to use. It uses a command-line interface consisting 		of a small number of simple commands, and uses iptables for configuration. UFW is available by default in all Ubuntu installations after 8.04 LTS
+
+8) uuidd : The uuidd daemon is used by the UUID library to generate universally unique identifiers (UUIDs), especially time-based UUIDs, in a secure and 		guaranteed-unique fashion, even in the face of large numbers of threads running on different CPUs trying to grab UUIDs.
+
+9) Whoopsie : Whoopsie is part of the Ubuntu error tracker. It takes the crash reports that apport creates and presents whenever an application fails 		and sends them to a Canonical server for further processing
+
+10) Saned : saned is the SANE (Scanner Access Now Easy) daemon that allows remote clients to access image acquisition devices available on the local 		host.
